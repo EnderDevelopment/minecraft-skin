@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+    <!-- Head -->
+    <rect x="16" y="0" width="32" height="32" fill="#D2B48C" />
+    <!-- Body -->
+    <rect x="24" y="32" width="16" height="20" fill="#5A5A5A" />
+    <!-- Arms -->
+    <rect x="16" y="32" width="4" height="12" fill="#D2B48C" />
+    <rect x="44" y="32" width="4" height="12" fill="#D2B48C" />
+    <!-- Legs -->
+    <rect x="24" y="52" width="4" height="12" fill="#5A5A5A" />
+    <rect x="36" y="52" width="4" height="12" fill="#5A5A5A" />
+    <!-- Hair -->
+    <rect x="16" y="0" width="32" height="4" fill="#000000" />
+    <!-- Eyes -->
+    <rect x="24" y="8" width="4" height="4" fill="#3B2F2F" />
+    <rect x="36" y="8" width="4" height="4" fill="#3B2F2F" />
+    <!-- Eyebrows -->
+    <rect x="24" y="4" width="8" height="2" fill="#000000" />
+    <!-- Mouth -->
+    <rect x="28" y="16" width="8" height="2" fill="#000000" />
+    <!-- Coat -->
+    <rect x="20" y="32" width="24" height="20" fill="#2E2E2E" />
+    <!-- Underlayer -->
+    <rect x="22" y="34" width="20" height="16" fill="#00008B" />
+    <!-- Sash -->
+    <rect x="24" y="40" width="16" height="2" fill="#800020" />
+    <!-- Apron -->
+    <rect x="20" y="44" width="24" height="8" fill="#8B4513" />
+    <!-- Boots -->
+    <rect x="24" y="52" width="16" height="4" fill="#3B2F2F" />
+    <!-- Embroidery -->
+    <rect x="24" y="32" width="16" height="2" fill="#FFD700" />
+    <rect x="24" y="44" width="2" height="8" fill="#FFD700" />
+    <rect x="38" y="44" width="2" height="8" fill="#FFD700" />
+    <!-- Shoulder Panels -->
+    <rect x="20" y="32" width="4" height="8" fill="#708090" />
+    <rect x="40" y="32" width="4" height="8" fill="#708090" />
+    <!-- Bracers -->
+    <rect x="16" y="44" width="4" height="8" fill="#8B4513" />
+    <rect x="44" y="44" width="4" height="8" fill="#8B4513" />
+    <!-- Rivets -->
+    <rect x="24" y="40" width="2" height="2" fill="#708090" />
+    <rect x="38" y="40" width="2" height="2" fill="#708090" />
+    <!-- Tool Pouch -->
+    <rect x="28" y="52" width="8" height="4" fill="#8B4513" />
+    <!-- Gloves -->
+    <rect x="16" y="44" width="4" height="4" fill="#708090" />
+    <rect x="44" y="44" width="4" height="4" fill="#708090" />
+    <!-- Soot Stains -->
+    <rect x="24" y="52" width="4" height="2" fill="#000000" />
+    <rect x="36" y="52" width="4" height="2" fill="#000000" />
+</svg>

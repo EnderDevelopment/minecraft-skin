@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+    <!-- Head -->
+    <rect x="24" y="0" width="16" height="16" fill="#000000"/>
+    <!-- Body -->
+    <rect x="20" y="16" width="24" height="32" fill="#000000"/>
+    <!-- Arms -->
+    <rect x="0" y="16" width="20" height="16" fill="#000000"/>
+    <rect x="44" y="16" width="20" height="16" fill="#000000"/>
+    <!-- Legs -->
+    <rect x="20" y="48" width="12" height="16" fill="#000000"/>
+    <rect x="32" y="48" width="12" height="16" fill="#000000"/>
+</svg>
